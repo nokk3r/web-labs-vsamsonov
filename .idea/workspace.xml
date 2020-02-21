@@ -1,30 +1,206 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e173b53b-3b0c-4dc5-abdc-0a853ba304c5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/web-labs-vsamsonov.iml" afterDir="false" />
+    <list default="true" id="e173b53b-3b0c-4dc5-abdc-0a853ba304c5" name="Default Changelist" comment="Lab 3 first commit">
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/freelancer.psd" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Lab3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/scss/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/Gruntfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/README.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/dist/galleria.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/dist/galleria.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/dist/plugins/flickr/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/dist/plugins/flickr/galleria.flickr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/dist/plugins/flickr/galleria.flickr.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/dist/plugins/history/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/dist/plugins/history/galleria.history.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/dist/plugins/history/galleria.history.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/dist/themes/azur/demo-cdn.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/dist/themes/azur/demo-retina.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/dist/themes/azur/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/dist/themes/azur/galleria.azur.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/dist/themes/azur/galleria.azur.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/dist/themes/azur/galleria.azur.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/dist/themes/azur/galleria.azur.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/dist/themes/classic/demo-cdn.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/dist/themes/classic/demo-retina.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/dist/themes/classic/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/dist/themes/classic/galleria.classic.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/dist/themes/classic/galleria.classic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/dist/themes/classic/galleria.classic.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/dist/themes/classic/galleria.classic.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/dist/themes/folio/demo-cdn.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/dist/themes/folio/demo-retina.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/dist/themes/folio/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/dist/themes/folio/galleria.folio.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/dist/themes/folio/galleria.folio.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/dist/themes/folio/galleria.folio.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/dist/themes/folio/galleria.folio.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/dist/themes/fullscreen/demo-cdn.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/dist/themes/fullscreen/demo-retina.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/dist/themes/fullscreen/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/dist/themes/fullscreen/galleria.fullscreen.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/dist/themes/fullscreen/galleria.fullscreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/dist/themes/fullscreen/galleria.fullscreen.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/dist/themes/fullscreen/galleria.fullscreen.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/dist/themes/fullscreen/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/dist/themes/miniml/demo-cdn.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/dist/themes/miniml/demo-retina.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/dist/themes/miniml/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/dist/themes/miniml/galleria.miniml.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/dist/themes/miniml/galleria.miniml.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/dist/themes/miniml/galleria.miniml.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/dist/themes/miniml/galleria.miniml.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/dist/themes/twelve/demo-cdn.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/dist/themes/twelve/demo-retina.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/dist/themes/twelve/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/dist/themes/twelve/galleria.twelve.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/dist/themes/twelve/galleria.twelve.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/dist/themes/twelve/galleria.twelve.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/dist/themes/twelve/galleria.twelve.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/galleria.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/plugins/flickr/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/plugins/flickr/galleria.flickr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/plugins/history/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/plugins/history/galleria.history.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/azur/20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/azur/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/azur/bgie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/azur/demo-cdn.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/azur/demo-retina.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/azur/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/azur/fscreen-neg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/azur/fscreen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/azur/galleria-inline.azur.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/azur/galleria.azur.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/azur/galleria.azur.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/azur/left-small.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/azur/left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/azur/loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/azur/playpause-neg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/azur/playpause-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/azur/right-small.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/azur/right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/azur/thumbleft-neg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/azur/thumbleft-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/azur/thumbright-neg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/azur/thumbright-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/classic/classic-loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/classic/classic-map.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/classic/demo-cdn.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/classic/demo-retina.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/classic/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/classic/galleria-inline.classic.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/classic/galleria.classic.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/classic/galleria.classic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/folio/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/folio/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/folio/cursor-zoom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/folio/demo-cdn.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/folio/demo-retina.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/folio/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/folio/galleria-inline.folio.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/folio/galleria.folio.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/folio/galleria.folio.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/folio/left-cursor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/folio/left-hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/folio/left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/folio/loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/folio/miniloader-neg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/folio/miniloader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/folio/right-cursor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/folio/right-hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/folio/right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/fullscreen/b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/fullscreen/demo-cdn.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/fullscreen/demo-retina.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/fullscreen/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/fullscreen/down-neg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/fullscreen/down.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/fullscreen/exit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/fullscreen/fix.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/fullscreen/galleria-inline.fullscreen.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/fullscreen/galleria.fullscreen.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/fullscreen/galleria.fullscreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/fullscreen/i.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/fullscreen/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/fullscreen/l-neg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/fullscreen/l.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/fullscreen/loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/fullscreen/n-neg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/fullscreen/n.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/fullscreen/p-neg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/fullscreen/p.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/fullscreen/r-neg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/fullscreen/r.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/fullscreen/up-neg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/fullscreen/up.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/miniml/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/miniml/bye-neg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/miniml/bye.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/miniml/circ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/miniml/demo-cdn.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/miniml/demo-retina.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/miniml/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/miniml/exit-neg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/miniml/exit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/miniml/fs-neg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/miniml/fs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/miniml/galleria-inline.miniml.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/miniml/galleria.miniml.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/miniml/galleria.miniml.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/miniml/info-neg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/miniml/info.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/miniml/loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/miniml/thumb-neg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/miniml/thumb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/twelve/bar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/twelve/bg-black.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/twelve/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/twelve/demo-cdn.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/twelve/demo-retina.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/twelve/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/twelve/fullscreen-neg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/twelve/fullscreen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/twelve/galleria-inline.twelve.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/twelve/galleria.twelve.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/twelve/galleria.twelve.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/twelve/loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/twelve/loader_pos.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/twelve/nav-neg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/twelve/nav.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/twelve/playpause-neg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/twelve/playpause.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/twelve/popout-neg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/twelve/popout.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/twelve/separator-neg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/twelve/separator.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/twelve/thumbs-neg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/js/galleria-1.6.1/src/themes/twelve/thumbs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wwww" beforeDir="false" />
     </list>
+    <list id="2cb13424-3cfd-44f9-b29d-683d688cc239" name="First Commit" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="lab3" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1XhFMywKa6ZTphbWr2R9RNspErD" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -36,6 +212,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -55,12 +232,32 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="e173b53b-3b0c-4dc5-abdc-0a853ba304c5" name="Default Changelist" comment="" />
+      <changelist id="2cb13424-3cfd-44f9-b29d-683d688cc239" name="First Commit" comment="" />
       <created>1581490375084</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581490375084</updated>
-      <workItem from="1581490376797" duration="252000" />
+      <workItem from="1581490376797" duration="1766000" />
+      <workItem from="1581494102573" duration="305000" />
+      <workItem from="1581933396090" duration="925000" />
+      <workItem from="1581941468365" duration="1191000" />
+      <workItem from="1582268687384" duration="259000" />
     </task>
+    <task id="LOCAL-00001" summary="First Commit">
+      <created>1581490661797</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581490661797</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First Commit">
+      <created>1581490892806</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1581490892806</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,7 +268,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -79,11 +278,34 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="First Commit" />
+    <MESSAGE value="Lab 3 first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab 3 first commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="289" key="Vcs.Push.Dialog.v2" timestamp="1581490534610">
+    <state x="583" y="68" key="CommitChangelistDialog2" timestamp="1582268975388">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state x="552" y="289" key="Vcs.Push.Dialog.v2/0.40.1920.1040@0.40.1920.1040" timestamp="1581490534610" />
+    <state x="583" y="68" key="CommitChangelistDialog2/0.40.1920.1040@0.40.1920.1040" timestamp="1582268975388" />
+    <state x="664" y="267" key="MultipleFileMergeDialog" timestamp="1581494383712">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="664" y="267" key="MultipleFileMergeDialog/0.40.1920.1040@0.40.1920.1040" timestamp="1581494383712" />
+    <state x="461" y="203" key="SettingsEditor" timestamp="1581491007243">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="461" y="203" key="SettingsEditor/0.40.1920.1040@0.40.1920.1040" timestamp="1581491007243" />
+    <state x="807" y="468" key="VCS.ChangelistChooser" timestamp="1581490970809">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="807" y="468" key="VCS.ChangelistChooser/0.40.1920.1040@0.40.1920.1040" timestamp="1581490970809" />
+    <state x="552" y="289" key="Vcs.Push.Dialog.v2" timestamp="1582269000946">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="552" y="289" key="Vcs.Push.Dialog.v2/0.40.1920.1040@0.40.1920.1040" timestamp="1582269000946" />
+    <state x="725" y="191" key="git4idea.branch.GitSmartOperationDialog" timestamp="1581494370129">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="725" y="191" key="git4idea.branch.GitSmartOperationDialog/0.40.1920.1040@0.40.1920.1040" timestamp="1581494370129" />
   </component>
 </project>
