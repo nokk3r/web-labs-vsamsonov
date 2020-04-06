@@ -1,29 +1,159 @@
 <!doctype html>
 <html lang="ru">
 <head>
-    <!-- META settings -->
     <meta charset="UTF-8">
-    <meta name="viewport"
-          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta name="viewport" content="width=device-width">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
-    <!-- custom CSS and JS link -->
+    <link rel="stylesheet" href="css/animate.css">
     <link rel="stylesheet" href="css/main.css">
-    <link rel="stylesheet" href="js/main.js">
 
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="js/main.js"></script>
 
-    <!-- Galleria JS photo gallery -->
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
-    <script src="galleria/galleria-1.4.min.js"></script>
-
-    <title>Лабораторная работа 3</title>
+    <title>RobotArm</title>
 </head>
 <body>
-    <h1>Первый слайд</h1>
+<header>
+    <div class="main-content">
+        <div class="block-row">
+            <div class="logo">
+                <img src="" alt="">
+                <h1>Ro<span class="hidden-text">bot</span><span class="colorGreen">A</span>r<span class="hidden-text">m</span></h1>
+            </div>
+            <div class="ul" id="menu">
+                <div class="li"><a href="#page1">о проекте</a></div>
+                <div class="li"><a href="#page2">команда</a></div>
+                <div class="li"><a href="#page3">ход работы</a></div>
+                <div class="li"><a href="#footer">ссылки</a></div>
+                <a href="#"><div class="li btn-green">Начать</div></a>
+            </div>
+        </div>
+        <div class="content">
+            <div class="block-img animated flash">
+                <img src="img/photo_2020-03-28_22-40-18.jpg" alt="">
+            </div>
+            <div class="block-col">
+                <h2>Robot<span class="colorGreen">A</span>rm - приложение для управления роботизированными объектами.</h2>
+                <span>Имеется роботизированная рука которая может показывать жесты русского жестового языка,
+                    есть необходимость управлять ей дистанционно с мобильного устройства.</span>
+                <a href="#"><div class="btn-green">Скачать приложение</div></a>
+            </div>
+        </div>
+    </div>
+</header>
+<div class="page1" id="page1">
+    <div class="main-content">
+        <div class="block-col">
+            <h2>О проекте</h2>
+            <span>Подключение к руке будет осуществлятся через bluetooth. Также будет реализована
+            поддержка устройств с bluetooth low energy. В приложении будет возможность выводить
+            как жесты по категориям, так и демонстрации жестов букв. Будет использоваться система
+            двухэтпаной аутентификаций: Сначала пин-код для доступа к приложению, затем пароль
+            для подкдючения к руке. В разработке используется самые передовые стредства и сервисы:
+            Flutter SDK, Figma, Android Studio, Lunacy, WebStorm, Trello, GitHub.
+            </span>
+
+            <div class="list">
+                <div class="li"><img src="img/flatterSDK.png" alt=""><span>Flutter SDK</span></div>
+                <div class="li"><img src="img/figma.png" alt=""><span>Figma</span></div>
+                <div class="li"><img src="img/GitHub.png" alt=""><span>GitHub</span></div>
+                <div class="li"><img src="img/AndroidStudio.png" alt=""><span>Android Studio</span></div>
+                <div class="li"><img src="img/WebStorm.png" alt=""><span>WebStorm</span></div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="page2" id="page2">
+    <div class="main-content">
+        <div class="block-col">
+            <h2>Команда</h2>
+            <div class="list">
+                <div class="li">
+                    <img src="img/do_you.jpg" alt="">
+                    <h4>Огородников Н.А.</h4>
+                    <span>Captain, Developer</span>
+                    <a href="https://vk.com/kolaqsq"><span>vk.kolaqsq</span></a>
+                </div>
+                <div class="li">
+                    <img src="img/nokk3r.jpg" alt="">
+                    <h4>Самсонов В.А.</h4>
+                    <span>Web Designer, UX&UI Designer</span>
+                    <a href="https://vk.com/simslava"><span>vk.nokk3r</span></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="page3" id="page3">
+    <div class="main-content">
+        <div class="block-col">
+            <h2>Ход работы</h2>
+            <div class="list">
+                <div class="li">
+                    <h3>1 этап <br> Оценка проекта и <br> предложения</h3>
+                    <div class="circle"></div>
+                </div>
+                <div class="li down">
+                    <div class="circle"></div>
+                    <h3>2 этап <br> Создание <br> дизайна</h3>
+
+                </div>
+                <div class="li li-big">
+                    <h3>3 этап <br> Создание <br> прототипа</h3>
+                    <div class="circle circle-big"></div>
+                </div>
+                <div class="li li-empty down">
+                    <div class="circle"></div>
+                    <h3>4 этап <br> Программирование</h3>
+                </div>
+                <div class="li li-empty">
+                    <h3>5 этап <br> Тестирование</h3>
+                    <div class="circle"></div>
+                </div>
+                <div class="li li-empty down">
+                    <div class="circle"></div>
+                    <h3>6 этап <br> Публикация</h3>
+                </div>
+            </div>
+            <div class="line"></div>
+            <div class="block-hidden">
+                <div class="list">
+                    <div class="li li-done">
+                        <h3>1 этап <br> Оценка проекта и предложения</h3>
+                    </div>
+                    <div class="li li-done">
+                        <h3>2 этап <br> Создание дизайна</h3>
+                    </div>
+                    <div class="li li-big">
+                        <h3>3 этап <br> Создание прототипа</h3>
+                    </div>
+                    <div class="li">
+                        <h3>4 этап <br> Программирование</h3>
+                    </div>
+                    <div class="li">
+                        <h3>5 этап <br> Тестирование</h3>
+                    </div>
+                    <div class="li">
+                        <h3>6 этап <br> Публикация</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<footer id="footer">
+    <div class="main-content">
+        <div class="block-col">
+            <h2>Ro<span class="colorGreen">A</span>r</h2>
+            <h3>Ссылки</h3>
+            <div class="list">
+                <div class="li"><a href="https://github.com/kolaqsq/RobotArm">Git репозиторий</a></div>
+                <div class="li"><a href="https://trello.com/b/14zSscM2/%D0%BF%D0%B4-2-%D1%81%D0%B5%D0%BC%D0%B5%D1%81%D1%82%D1%80">доска Trello</a></div>
+            </div>
+            <span>© 2020 NOKK3R COMPANY</span>
+        </div>
+    </div>
+</footer>
 </body>
 </html>
